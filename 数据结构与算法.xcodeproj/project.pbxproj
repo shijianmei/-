@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		440EEBBE1FBA9B0D00FD6A63 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 440EEBBD1FBA9B0D00FD6A63 /* main.m */; };
 		440EEBC61FBAE00000FD6A63 /* 线性表之顺序结构.c in Sources */ = {isa = PBXBuildFile; fileRef = 440EEBC41FBAE00000FD6A63 /* 线性表之顺序结构.c */; };
+		440EEC181FBD408F00FD6A63 /* 线性表之链式结构.c in Sources */ = {isa = PBXBuildFile; fileRef = 440EEC171FBD408F00FD6A63 /* 线性表之链式结构.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		440EEBBA1FBA9B0D00FD6A63 /* 数据结构与算法 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "数据结构与算法"; sourceTree = BUILT_PRODUCTS_DIR; };
 		440EEBBD1FBA9B0D00FD6A63 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		440EEBC41FBAE00000FD6A63 /* 线性表之顺序结构.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "线性表之顺序结构.c"; sourceTree = "<group>"; };
+		440EEC171FBD408F00FD6A63 /* 线性表之链式结构.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "线性表之链式结构.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				440EEBBD1FBA9B0D00FD6A63 /* main.m */,
 				440EEBC41FBAE00000FD6A63 /* 线性表之顺序结构.c */,
+				440EEC171FBD408F00FD6A63 /* 线性表之链式结构.c */,
 			);
 			path = "数据结构与算法";
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				440EEC181FBD408F00FD6A63 /* 线性表之链式结构.c in Sources */,
 				440EEBC61FBAE00000FD6A63 /* 线性表之顺序结构.c in Sources */,
 				440EEBBE1FBA9B0D00FD6A63 /* main.m in Sources */,
 			);
