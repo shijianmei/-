@@ -10,6 +10,9 @@
 		440EEBBE1FBA9B0D00FD6A63 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 440EEBBD1FBA9B0D00FD6A63 /* main.m */; };
 		440EEBC61FBAE00000FD6A63 /* 线性表之顺序结构.c in Sources */ = {isa = PBXBuildFile; fileRef = 440EEBC41FBAE00000FD6A63 /* 线性表之顺序结构.c */; };
 		440EEC181FBD408F00FD6A63 /* 线性表之链式结构.c in Sources */ = {isa = PBXBuildFile; fileRef = 440EEC171FBD408F00FD6A63 /* 线性表之链式结构.c */; };
+		440EEC231FBDA59E00FD6A63 /* 顺序栈_stack.c in Sources */ = {isa = PBXBuildFile; fileRef = 440EEC211FBDA59E00FD6A63 /* 顺序栈_stack.c */; };
+		440EEC251FBDB05D00FD6A63 /* 链式栈.c in Sources */ = {isa = PBXBuildFile; fileRef = 440EEC241FBDB05D00FD6A63 /* 链式栈.c */; };
+		440EEC271FBE849800FD6A63 /* 斐波那契数列.c in Sources */ = {isa = PBXBuildFile; fileRef = 440EEC261FBE849800FD6A63 /* 斐波那契数列.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +32,9 @@
 		440EEBBD1FBA9B0D00FD6A63 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		440EEBC41FBAE00000FD6A63 /* 线性表之顺序结构.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "线性表之顺序结构.c"; sourceTree = "<group>"; };
 		440EEC171FBD408F00FD6A63 /* 线性表之链式结构.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "线性表之链式结构.c"; sourceTree = "<group>"; };
+		440EEC211FBDA59E00FD6A63 /* 顺序栈_stack.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "顺序栈_stack.c"; sourceTree = "<group>"; };
+		440EEC241FBDB05D00FD6A63 /* 链式栈.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "链式栈.c"; sourceTree = "<group>"; };
+		440EEC261FBE849800FD6A63 /* 斐波那契数列.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "斐波那契数列.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +70,9 @@
 				440EEBBD1FBA9B0D00FD6A63 /* main.m */,
 				440EEBC41FBAE00000FD6A63 /* 线性表之顺序结构.c */,
 				440EEC171FBD408F00FD6A63 /* 线性表之链式结构.c */,
+				440EEC211FBDA59E00FD6A63 /* 顺序栈_stack.c */,
+				440EEC241FBDB05D00FD6A63 /* 链式栈.c */,
+				440EEC261FBE849800FD6A63 /* 斐波那契数列.c */,
 			);
 			path = "数据结构与算法";
 			sourceTree = "<group>";
@@ -127,6 +136,9 @@
 			files = (
 				440EEC181FBD408F00FD6A63 /* 线性表之链式结构.c in Sources */,
 				440EEBC61FBAE00000FD6A63 /* 线性表之顺序结构.c in Sources */,
+				440EEC271FBE849800FD6A63 /* 斐波那契数列.c in Sources */,
+				440EEC231FBDA59E00FD6A63 /* 顺序栈_stack.c in Sources */,
+				440EEC251FBDB05D00FD6A63 /* 链式栈.c in Sources */,
 				440EEBBE1FBA9B0D00FD6A63 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

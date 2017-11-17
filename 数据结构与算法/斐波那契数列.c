@@ -6,13 +6,9 @@
 //  Copyright © 2017年 Jianmei. All rights reserved.
 //
 
+/*
 #import <Foundation/Foundation.h>
-#pragma mark 线性表之顺序存储结构
-#define MAXSIZE 20
-#define OK 1
-#define ERROR 0
-#define TRUE 1
-#define FALSE 0
+
 
 //斐波那契的递归函数
 
@@ -37,7 +33,9 @@ int main(int argc, const char * argv[]) {
             a[i] = a[i-1]+a[i-2];
         }
         long long re =  a[39];
- 
+        
     }
     return 0;
 }
+
+ */
